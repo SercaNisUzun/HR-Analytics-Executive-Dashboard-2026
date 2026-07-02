@@ -4,3 +4,4 @@
 
 <b>An interactive HR Analytics Executive Dashboard built on a raw 1,000-row personnel dataset. Features dynamic Excel formulas for 7 key HR metrics (Turnover %, Headcount, Overtime, Absenteeism, etc.) and an executive-level interface interconnected with slicers for seamless data exploration.</b>
 
+<img src="https://github.com/SercaNisUzun/HR-Analytics-Executive-Dashboard-2026/blob/main/Dashboard.png">
